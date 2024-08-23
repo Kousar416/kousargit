@@ -1,0 +1,11 @@
+<suite name="Sprint1" verbose="1">
+ <parameter name="browser" value="firefox"/>
+    
+ <test name="Sprint1 testcases">
+ 
+  <classes>
+    <class name="testrunners.TestNgRunner"/>
+    <class name="testrunners.TestNgRunner1"/>
+  </classes>
+  </test>
+</suite>

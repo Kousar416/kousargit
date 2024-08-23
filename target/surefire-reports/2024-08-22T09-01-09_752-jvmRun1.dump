@@ -1,0 +1,10 @@
+# Created at 2024-08-22T09:01:10.921
+org.apache.maven.surefire.testset.TestSetFailedException: Suite file \\DESKTOP-TIC5DM4\Users\Administrator\Downloads\LatestCucumber6WithPOM-master\DESKTOP-TIC5DM4\Users\Administrator\Downloads\LatestCucumber6WithPOM-master\testng.xml is not a valid file
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.locateTestSets(TestNGXmlTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+
